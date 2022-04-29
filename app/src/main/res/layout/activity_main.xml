@@ -75,5 +75,5 @@
             android:src="@mipmap/ic_launcher">
 
         </ImageView>
-    </LinearLayout>
+    </LinearLayout>//конечный проект
 </LinearLayout>
